@@ -24,6 +24,10 @@
   position: relative;
 }
 
+.offcanvas {
+  background-color: #dfbc6f;
+}
+
 .footer {
   background-color: #b04434;
   border: 2px solid black;
